@@ -61,7 +61,7 @@ Make sure you have a web browser installed (Google Chrome, Firefox, etc.).
 
 The flowchart below represents the overall functionality of the Bankist web application:
 
-![Bankist Flowchart](./path/to/Bankist-flowchart.png)
+![Bankist Flowchart](./Bankist-flowchart.png)
 
 ## Contributing
 
